@@ -1,5 +1,5 @@
 /*
-Created by Alex Devero
+Created by AM
 More information on 
 http://alexdevero.com
 

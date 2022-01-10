@@ -1,7 +1,7 @@
 /*
 Created by AM
 More information on 
-http://alexdevero.com
+https://github.com/mbaangel/
 
-To learn about HTML5, CSS3 and Javascript visit http://alexsblog.org
+To learn about HTML5, CSS and Javascript visit https://github.com/mbaangel/
 */

@@ -1171,7 +1171,7 @@ section,
 }
 
 .skills .content p {
-  color: color-mix(in srgb, var(--default-color), transparent 30%);
+  color: color-mix(in srgb, var(white), transparent 30%);
 }
 
 .skills .content p:last-child {

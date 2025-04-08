@@ -653,7 +653,7 @@ video {
 
 .footer .footer-links ul a {
   display: inline-block;
-  color: color-mix(in srgb, var(--default-color), transparent 20%);
+  color: color-mix(in srgb, #ffffff, transparent 20%);
   line-height: 1;
 }
 
@@ -671,6 +671,7 @@ video {
 
 .footer .footer-contact p {
   margin-bottom: 5px;
+  color: white;
 }
 
 .footer .copyright {
@@ -1062,7 +1063,7 @@ section,
 }
 
 .why-us .content p {
-  color: color-mix(in srgb, var(--default-color), transparent 30%);
+  color: color-mix(in srgb, white, transparent 30%);
 }
 
 .why-us .faq-container .faq-item {
